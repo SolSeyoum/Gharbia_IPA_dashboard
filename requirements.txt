@@ -1,0 +1,14 @@
+streamlit
+streamlit_folium 
+pandas
+xarray
+rioxarray
+netcdf4
+h5netcdf
+rasterio
+folium
+altair
+plotly
+geopandas
+Pillow
+matplotlib
